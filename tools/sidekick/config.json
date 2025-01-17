@@ -31,7 +31,7 @@
     },
     {
       "id": "readme",
-      "title": "README",
+      "title": "Hands on Lab - README",
       "url": "https://main--eds-hands-on-lab--gscamurra.aem.page/readme",
       "passConfig": true,
       "environments": ["preview","live", "edit"],
