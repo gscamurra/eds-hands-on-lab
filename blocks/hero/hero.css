@@ -24,6 +24,11 @@
   box-sizing: border-box;
 }
 
+
+.handsonlab .hero h1 {
+	text-shadow: 2px 2px 4px #000000;
+}
+
 .hero img {
   object-fit: cover;
   width: 100%;
