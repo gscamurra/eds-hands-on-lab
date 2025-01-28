@@ -40,6 +40,12 @@
   --nav-height: 64px;
 }
 
+.handsonlab {
+  /* colors */
+  --link-color: #red;
+  --link-hover-color: #darkred;
+}
+
 /* fallback fonts */
 @font-face {
   font-family: roboto-condensed-fallback;
