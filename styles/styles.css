@@ -42,8 +42,8 @@
 
 .handsonlab {
   /* colors */
-  --link-color: #red;
-  --link-hover-color: #darkred;
+  --link-color: red;
+  --link-hover-color: darkred;
 }
 
 /* fallback fonts */
