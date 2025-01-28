@@ -7,9 +7,17 @@
   grid-gap: 24px;
 }
 
+.handsonlab .cards > ul {
+    grid-gap: 90px;
+}
+
 .cards > ul > li {
   border: 1px solid #dadada;
   background-color: var(--background-color);
+}
+
+.handsonlab .cards > ul > li {
+  border: 0px solid #dadada;
 }
 
 .cards .cards-card-body {
